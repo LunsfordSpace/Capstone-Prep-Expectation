@@ -72,5 +72,7 @@ The product will allow users to mitigate their stress by giving them a tool that
  * Google Authentication
 
 ##### Additional Information
-
+(Previous)
 I have a lot of ideas that I really want to work on, but I’d be very happy to have a functional in-app calendar without syncing capabilities (like to Google Calendars). I don’t feel overwhelmed by most of my ideas, but I worry that a few of them might be beyond my skill level. Do you have any resources for React Native audio management? Thanks!
+
+(Current) Thanks for the advice! I think I'm prepared for the moment, I'll reach out if I have any other questions!
