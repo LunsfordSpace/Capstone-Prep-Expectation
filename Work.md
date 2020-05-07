@@ -4,4 +4,4 @@
 
  12:50pm - continue research on Google calendars implementation
 
- 1:30pm - create repo [Google Calendar Test](#) 
+ 1:30pm - create repo [Google Calendar Test](#)
