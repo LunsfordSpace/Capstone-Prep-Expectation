@@ -58,7 +58,6 @@
 * About the Project
     * Description
     * Known Bugs
-    * Built With
 * Scope
     * Minimal-Viable Product
     * Product Roadmap
@@ -85,11 +84,6 @@ ActorAid is a time management mobile app that coordinates a user’s schedule to
 ### 🦠 Known Bugs
 
 * No known bugs.
-
-### 🛠 Built With
-* [Mac OS X El Capitan 10.11.6](https://en.wikipedia.org/wiki/MacOS_Mojave)
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [Markdown](https://daringfireball.net/projects/markdown/)
 
 ------------------------------
 
