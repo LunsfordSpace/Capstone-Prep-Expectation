@@ -63,6 +63,7 @@
     * Minimal-Viable Product
     * Product Roadmap
     * Specs
+    * Wireframe
 * Getting Started
     * Prerequisites
     * Installation
@@ -230,6 +231,8 @@ The product will allow users to mitigate their stress by giving them a tool that
     </tr>
   </table>
 </details>
+
+
 
 ------------------------------
 
