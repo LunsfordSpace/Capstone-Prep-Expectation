@@ -232,7 +232,8 @@ The product will allow users to mitigate their stress by giving them a tool that
   </table>
 </details>
 
-
+### 🎨 Wireframe
+![Wireframe](./img/CapstoneMockUp.jpg)
 
 ------------------------------
 
