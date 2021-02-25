@@ -14,25 +14,25 @@
     <!-- GitHub Link -->
     <p align="center">
         <a href="#">
-            <strong>TotallyNot-LondresRi</strong>
+            <strong>TotallyNot-LunsfordSK</strong>
         </a>
     </p>
     <!-- Project Shields -->
     <p align="center">
         <a href="#/Capstone-Prep-Expectation/graphs/contributors">
-            <img src="https://img.shields.io/github/contributors/LondresRi/Capstone-Prep-Expectation.svg?style=plastic">
+            <img src="https://img.shields.io/github/contributors/LunsfordSK/Capstone-Prep-Expectation.svg?style=plastic">
         </a>
         ¨
         <a href="#/Capstone-Prep-Expectation/stargazers">
-            <img src="https://img.shields.io/github/stars/LondresRi/Capstone-Prep-Expectation.svg?color=yellow&style=plastic">
+            <img src="https://img.shields.io/github/stars/LunsfordSK/Capstone-Prep-Expectation.svg?color=yellow&style=plastic">
         </a>
         ¨
         <a href="#/Capstone-Prep-Expectation/issues">
-            <img src="https://img.shields.io/github/issues/LondresRi/Capstone-Prep-Expectation?style=plastic">
+            <img src="https://img.shields.io/github/issues/LunsfordSK/Capstone-Prep-Expectation?style=plastic">
         </a>
         ¨
         <a href="#/Best-README-Template/blob/master/LICENSE.txt">
-            <img src="https://img.shields.io/github/license/LondresRi/Capstone-Prep-Expectation?color=orange&style=plastic">
+            <img src="https://img.shields.io/github/license/LunsfordSK/Capstone-Prep-Expectation?color=orange&style=plastic">
         </a>
         ¨
         <a href="https://linkedin.com/in/lunsfordsk">
@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <small>Initiated May 6th 2020</small>
+  <small>Initiated February 24th 2021</small>
 </p>
 
 <!-- Project Links -->
@@ -277,7 +277,7 @@ The product will allow users to mitigate their stress by giving them a tool that
 
 | Author | GitHub | Email |
 |--------|:------:|:-----:|
-| [Amber Doe Jr.](#) | [TotallyNot-LondresRi](#) |  [amber@fakeemail.com](#) |
+| [Amber Doe Jr.](#) | [TotallyNot-LunsfordSK](#) |  [amber@fakeemail.com](#) |
 
 ------------------------------
 
@@ -294,11 +294,12 @@ If you have any feedback or concerns, please contact one of the contributors.
 
 ## ⚖ License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Copyright (c) 2020 Amber Doe Jr. All Rights Reserved.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Copyright (c) 2021 Amber Doe Jr. All Rights Reserved.
+
 ```
 MIT License
 
-Copyright (c) 2020 Amber Doe Jr.
+Copyright (c) 2021 Amber Doe Jr.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
