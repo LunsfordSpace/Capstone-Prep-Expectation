@@ -14,28 +14,28 @@
     <!-- GitHub Link -->
     <p align="center">
         <a href="#">
-            <strong>TotallyNot-LunsfordSK</strong>
+            <strong>TotallyNot-LunsfordSpace</strong>
         </a>
     </p>
     <!-- Project Shields -->
     <p align="center">
         <a href="#/Capstone-Prep-Expectation/graphs/contributors">
-            <img src="https://img.shields.io/github/contributors/LunsfordSK/Capstone-Prep-Expectation.svg?style=plastic">
+            <img src="https://img.shields.io/github/contributors/LunsfordSpace/Capstone-Prep-Expectation.svg?style=plastic">
         </a>
         ¨
         <a href="#/Capstone-Prep-Expectation/stargazers">
-            <img src="https://img.shields.io/github/stars/LunsfordSK/Capstone-Prep-Expectation.svg?color=yellow&style=plastic">
+            <img src="https://img.shields.io/github/stars/LunsfordSpace/Capstone-Prep-Expectation.svg?color=yellow&style=plastic">
         </a>
         ¨
         <a href="#/Capstone-Prep-Expectation/issues">
-            <img src="https://img.shields.io/github/issues/LunsfordSK/Capstone-Prep-Expectation?style=plastic">
+            <img src="https://img.shields.io/github/issues/LunsfordSpace/Capstone-Prep-Expectation?style=plastic">
         </a>
         ¨
         <a href="#/Best-README-Template/blob/master/LICENSE.txt">
-            <img src="https://img.shields.io/github/license/LunsfordSK/Capstone-Prep-Expectation?color=orange&style=plastic">
+            <img src="https://img.shields.io/github/license/LunsfordSpace/Capstone-Prep-Expectation?color=orange&style=plastic">
         </a>
         ¨
-        <a href="https://linkedin.com/in/lunsfordsk">
+        <a href="https://linkedin.com/in/LunsfordSpace">
             <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=2867B2">
         </a>
     </p>    
@@ -277,7 +277,7 @@ The product will allow users to mitigate their stress by giving them a tool that
 
 | Author | GitHub | Email |
 |--------|:------:|:-----:|
-| [Amber Doe Jr.](#) | [TotallyNot-LunsfordSK](#) |  [amber@fakeemail.com](#) |
+| [Amber Doe Jr.](#) | [TotallyNot-LunsfordSpace](#) |  [amber@fakeemail.com](#) |
 
 ------------------------------
 
